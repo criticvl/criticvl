@@ -1,4 +1,5 @@
 # Hi, I'm Beso. Here you can see some of my latest work: 🧵
+(Click the pictures to visit websites)
 
 <table style="width: 100%">
   <thead>
