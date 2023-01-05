@@ -1,5 +1,23 @@
-# Hi, I'm Beso. Here you can see some of my latest work: 🧵
+# Hi, I'm Beso. Here are some of my latest work: 🧵
 (Click the pictures to visit websites)
+
+<table style="width: 100%; table-layout: fixed">
+  <thead>
+    <tr>
+      <th>Chat Application</th>
+    </tr>
+  </thead>
+  <tr>
+      <td>
+        <a href="https://chat-criticvl.netlify.app"
+          ><img
+            style="width: 100vw"
+            src="https://user-images.githubusercontent.com/60577503/210775544-22132726-a32b-404f-8ba9-37f52e6300ef.png"
+            alt="Chat App"
+        /></a>
+      </td>
+    </tr>
+</table>
 
 <table style="width: 100%; table-layout: fixed">
   <thead>
@@ -7,7 +25,6 @@
       <th colspan="2" rowspan="2">Landings Projects</th>
       <th colspan="2" rowspan="2">Simple JS Projects</th>
     </tr>
-    <tr></tr>
   </thead>
   <tbody>
     <tr>
