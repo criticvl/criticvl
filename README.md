@@ -1,4 +1,4 @@
-# Hi, I'm Beso. Here are some of my latest work: 🧵
+# Hi, I'm Beso and Here are some of my latest work: 🧵
 (Click the pictures to visit websites)
 
 <table style="width: 100%; table-layout: fixed">
