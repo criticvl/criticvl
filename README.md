@@ -12,7 +12,7 @@
         <a href="https://chat-criticvl.netlify.app" target="_blank"
           ><img
             style="width: 100vw"
-            src="https://user-images.githubusercontent.com/60577503/210775544-22132726-a32b-404f-8ba9-37f52e6300ef.png"
+            src="https://user-images.githubusercontent.com/60577503/211714129-ad8051d4-9fd6-4d62-b90d-a3147542cee7.png"
             alt="Chat App"
         /></a>
       </td>
@@ -73,3 +73,4 @@
     </tr>
   </tbody>
 </table>
+
