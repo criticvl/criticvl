@@ -48,7 +48,7 @@
         <a href="https://simplez-hub-criticvl.netlify.app" target="_blank"
           ><img
             style="width: 100vw"
-            src="https://user-images.githubusercontent.com/60577503/207955662-41adc5d3-5a7e-4d5e-a425-64fac2d85869.png"
+            src="https://user-images.githubusercontent.com/60577503/211945853-c8cdd94a-738c-4ea5-a6cb-901e38a74209.png"
             alt="Simplez Hub"
         /></a>
       </td>
