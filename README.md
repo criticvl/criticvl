@@ -1,4 +1,5 @@
-# Hi, I'm Beso and Here are some of my latest work: 🧵
+# Hello there! I'm Beso! Check out my recent projects below: 🧵
+
 (Click the pictures to visit websites)
 
 <table style="width: 100%; table-layout: fixed">
@@ -74,3 +75,10 @@
   </tbody>
 </table>
 
+```json
+⚠️Warning!
+If you are a developer, I strongly advise against opening the source code of my old projects.
+The implementations contain some poor solutions that may shock you.
+Please be aware that older projects were developed during a period of relative inexperience,
+and as such, the code was not designed with an emphasis on readability, maintainability, or scalability.
+```
