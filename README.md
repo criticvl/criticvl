@@ -1,4 +1,4 @@
-# Hello there! I'm Beso! Check out my recent projects below: 🧵
+# Hello there! I'm Beso! Check out my recent projects below:
 
 (Click the pictures to visit websites)
 
