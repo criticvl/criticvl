@@ -74,11 +74,3 @@
     </tr>
   </tbody>
 </table>
-
-```json
-⚠️Warning!
-If you are a developer, I strongly advise against opening the source code of my old projects.
-The implementations contain some poor solutions that may shock you.
-Please be aware that older projects were developed during a period of relative inexperience,
-and as such, the code was not designed with an emphasis on readability, maintainability, or scalability.
-```
